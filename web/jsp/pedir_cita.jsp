@@ -59,6 +59,14 @@
                 float: none;
               }
             }
+            footer {
+                width: 100%;
+                height: 40px;
+                background-color: #222;
+                color: #cccccc;
+                text-align: center;
+                padding-top: 18px;
+            }
         </style>
     </head>
     <body>
@@ -94,5 +102,6 @@
                 </div>
             </form>
         </div>
+        <footer>Development by - D'Luxe Spa</footer>
     </body>
 </html>
